@@ -1,0 +1,6 @@
+@media(max-width: 375px){
+    body{
+        background-color: blueviolet;
+        background-image: url("./images/bg-intro-mobile.png");
+    }
+}
